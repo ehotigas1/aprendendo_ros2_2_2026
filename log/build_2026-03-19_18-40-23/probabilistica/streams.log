@@ -1,0 +1,41 @@
+[1.093s] Invoking command in '/home/unietaravena/Documents/aprendendo_ros2_2_2026/aprendendo_ros2_2_2026/workspace/src/probabilistica': PYTHONPATH=/home/unietaravena/Documents/aprendendo_ros2_2_2026/aprendendo_ros2_2_2026/build/probabilistica/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/unietaravena/Documents/aprendendo_ros2_2_2026/aprendendo_ros2_2_2026/install/probabilistica/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../../build/probabilistica build --build-base /home/unietaravena/Documents/aprendendo_ros2_2_2026/aprendendo_ros2_2_2026/build/probabilistica/build install --record /home/unietaravena/Documents/aprendendo_ros2_2_2026/aprendendo_ros2_2_2026/build/probabilistica/install.log --single-version-externally-managed install_data
+[1.416s] running egg_info
+[1.417s] creating ../../../build/probabilistica/probabilistica.egg-info
+[1.417s] writing ../../../build/probabilistica/probabilistica.egg-info/PKG-INFO
+[1.417s] writing dependency_links to ../../../build/probabilistica/probabilistica.egg-info/dependency_links.txt
+[1.418s] writing entry points to ../../../build/probabilistica/probabilistica.egg-info/entry_points.txt
+[1.418s] writing requirements to ../../../build/probabilistica/probabilistica.egg-info/requires.txt
+[1.418s] writing top-level names to ../../../build/probabilistica/probabilistica.egg-info/top_level.txt
+[1.424s] writing manifest file '../../../build/probabilistica/probabilistica.egg-info/SOURCES.txt'
+[1.426s] reading manifest file '../../../build/probabilistica/probabilistica.egg-info/SOURCES.txt'
+[1.427s] writing manifest file '../../../build/probabilistica/probabilistica.egg-info/SOURCES.txt'
+[1.428s] running build
+[1.428s] running build_py
+[1.428s] creating /home/unietaravena/Documents/aprendendo_ros2_2_2026/aprendendo_ros2_2_2026/build/probabilistica/build
+[1.428s] creating /home/unietaravena/Documents/aprendendo_ros2_2_2026/aprendendo_ros2_2_2026/build/probabilistica/build/lib
+[1.428s] creating /home/unietaravena/Documents/aprendendo_ros2_2_2026/aprendendo_ros2_2_2026/build/probabilistica/build/lib/probabilistica
+[1.428s] copying probabilistica/KalmanFilter_base.py -> /home/unietaravena/Documents/aprendendo_ros2_2_2026/aprendendo_ros2_2_2026/build/probabilistica/build/lib/probabilistica
+[1.429s] copying probabilistica/Mapping.py -> /home/unietaravena/Documents/aprendendo_ros2_2_2026/aprendendo_ros2_2_2026/build/probabilistica/build/lib/probabilistica
+[1.429s] copying probabilistica/__init__.py -> /home/unietaravena/Documents/aprendendo_ros2_2_2026/aprendendo_ros2_2_2026/build/probabilistica/build/lib/probabilistica
+[1.429s] running install
+[1.429s] running install_lib
+[1.430s] creating /home/unietaravena/Documents/aprendendo_ros2_2_2026/aprendendo_ros2_2_2026/install/probabilistica/lib/python3.10/site-packages/probabilistica
+[1.430s] copying /home/unietaravena/Documents/aprendendo_ros2_2_2026/aprendendo_ros2_2_2026/build/probabilistica/build/lib/probabilistica/KalmanFilter_base.py -> /home/unietaravena/Documents/aprendendo_ros2_2_2026/aprendendo_ros2_2_2026/install/probabilistica/lib/python3.10/site-packages/probabilistica
+[1.430s] copying /home/unietaravena/Documents/aprendendo_ros2_2_2026/aprendendo_ros2_2_2026/build/probabilistica/build/lib/probabilistica/Mapping.py -> /home/unietaravena/Documents/aprendendo_ros2_2_2026/aprendendo_ros2_2_2026/install/probabilistica/lib/python3.10/site-packages/probabilistica
+[1.431s] copying /home/unietaravena/Documents/aprendendo_ros2_2_2026/aprendendo_ros2_2_2026/build/probabilistica/build/lib/probabilistica/__init__.py -> /home/unietaravena/Documents/aprendendo_ros2_2_2026/aprendendo_ros2_2_2026/install/probabilistica/lib/python3.10/site-packages/probabilistica
+[1.431s] byte-compiling /home/unietaravena/Documents/aprendendo_ros2_2_2026/aprendendo_ros2_2_2026/install/probabilistica/lib/python3.10/site-packages/probabilistica/KalmanFilter_base.py to KalmanFilter_base.cpython-310.pyc
+[1.432s] byte-compiling /home/unietaravena/Documents/aprendendo_ros2_2_2026/aprendendo_ros2_2_2026/install/probabilistica/lib/python3.10/site-packages/probabilistica/Mapping.py to Mapping.cpython-310.pyc
+[1.433s] byte-compiling /home/unietaravena/Documents/aprendendo_ros2_2_2026/aprendendo_ros2_2_2026/install/probabilistica/lib/python3.10/site-packages/probabilistica/__init__.py to __init__.cpython-310.pyc
+[1.434s] running install_data
+[1.434s] creating /home/unietaravena/Documents/aprendendo_ros2_2_2026/aprendendo_ros2_2_2026/install/probabilistica/share/ament_index
+[1.434s] creating /home/unietaravena/Documents/aprendendo_ros2_2_2026/aprendendo_ros2_2_2026/install/probabilistica/share/ament_index/resource_index
+[1.434s] creating /home/unietaravena/Documents/aprendendo_ros2_2_2026/aprendendo_ros2_2_2026/install/probabilistica/share/ament_index/resource_index/packages
+[1.434s] copying resource/probabilistica -> /home/unietaravena/Documents/aprendendo_ros2_2_2026/aprendendo_ros2_2_2026/install/probabilistica/share/ament_index/resource_index/packages
+[1.434s] copying package.xml -> /home/unietaravena/Documents/aprendendo_ros2_2_2026/aprendendo_ros2_2_2026/install/probabilistica/share/probabilistica
+[1.435s] running install_egg_info
+[1.437s] Copying ../../../build/probabilistica/probabilistica.egg-info to /home/unietaravena/Documents/aprendendo_ros2_2_2026/aprendendo_ros2_2_2026/install/probabilistica/lib/python3.10/site-packages/probabilistica-0.0.0-py3.10.egg-info
+[1.438s] running install_scripts
+[1.461s] Installing kalman_filter script to /home/unietaravena/Documents/aprendendo_ros2_2_2026/aprendendo_ros2_2_2026/install/probabilistica/lib/probabilistica
+[1.461s] Installing mapping script to /home/unietaravena/Documents/aprendendo_ros2_2_2026/aprendendo_ros2_2_2026/install/probabilistica/lib/probabilistica
+[1.462s] writing list of installed files to '/home/unietaravena/Documents/aprendendo_ros2_2_2026/aprendendo_ros2_2_2026/build/probabilistica/install.log'
+[1.488s] Invoked command in '/home/unietaravena/Documents/aprendendo_ros2_2_2026/aprendendo_ros2_2_2026/workspace/src/probabilistica' returned '0': PYTHONPATH=/home/unietaravena/Documents/aprendendo_ros2_2_2026/aprendendo_ros2_2_2026/build/probabilistica/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/unietaravena/Documents/aprendendo_ros2_2_2026/aprendendo_ros2_2_2026/install/probabilistica/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../../build/probabilistica build --build-base /home/unietaravena/Documents/aprendendo_ros2_2_2026/aprendendo_ros2_2_2026/build/probabilistica/build install --record /home/unietaravena/Documents/aprendendo_ros2_2_2026/aprendendo_ros2_2_2026/build/probabilistica/install.log --single-version-externally-managed install_data

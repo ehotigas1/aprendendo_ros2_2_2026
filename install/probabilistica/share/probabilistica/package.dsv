@@ -1,0 +1,6 @@
+source;share/probabilistica/hook/pythonpath.ps1
+source;share/probabilistica/hook/pythonpath.dsv
+source;share/probabilistica/hook/pythonpath.sh
+source;share/probabilistica/hook/ament_prefix_path.ps1
+source;share/probabilistica/hook/ament_prefix_path.dsv
+source;share/probabilistica/hook/ament_prefix_path.sh

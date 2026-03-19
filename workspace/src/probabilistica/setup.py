@@ -20,7 +20,8 @@ setup(
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
-            'kalman_filter = probabilistica.KalmanFilter_base:main'
+            'kalman_filter = probabilistica.KalmanFilter_base:main',
+            'mapping = probabilistica.Mapping:main'
 
         ],
     },

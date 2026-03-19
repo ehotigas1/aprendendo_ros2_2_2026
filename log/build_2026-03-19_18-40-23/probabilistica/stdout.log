@@ -1,0 +1,39 @@
+running egg_info
+creating ../../../build/probabilistica/probabilistica.egg-info
+writing ../../../build/probabilistica/probabilistica.egg-info/PKG-INFO
+writing dependency_links to ../../../build/probabilistica/probabilistica.egg-info/dependency_links.txt
+writing entry points to ../../../build/probabilistica/probabilistica.egg-info/entry_points.txt
+writing requirements to ../../../build/probabilistica/probabilistica.egg-info/requires.txt
+writing top-level names to ../../../build/probabilistica/probabilistica.egg-info/top_level.txt
+writing manifest file '../../../build/probabilistica/probabilistica.egg-info/SOURCES.txt'
+reading manifest file '../../../build/probabilistica/probabilistica.egg-info/SOURCES.txt'
+writing manifest file '../../../build/probabilistica/probabilistica.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/unietaravena/Documents/aprendendo_ros2_2_2026/aprendendo_ros2_2_2026/build/probabilistica/build
+creating /home/unietaravena/Documents/aprendendo_ros2_2_2026/aprendendo_ros2_2_2026/build/probabilistica/build/lib
+creating /home/unietaravena/Documents/aprendendo_ros2_2_2026/aprendendo_ros2_2_2026/build/probabilistica/build/lib/probabilistica
+copying probabilistica/KalmanFilter_base.py -> /home/unietaravena/Documents/aprendendo_ros2_2_2026/aprendendo_ros2_2_2026/build/probabilistica/build/lib/probabilistica
+copying probabilistica/Mapping.py -> /home/unietaravena/Documents/aprendendo_ros2_2_2026/aprendendo_ros2_2_2026/build/probabilistica/build/lib/probabilistica
+copying probabilistica/__init__.py -> /home/unietaravena/Documents/aprendendo_ros2_2_2026/aprendendo_ros2_2_2026/build/probabilistica/build/lib/probabilistica
+running install
+running install_lib
+creating /home/unietaravena/Documents/aprendendo_ros2_2_2026/aprendendo_ros2_2_2026/install/probabilistica/lib/python3.10/site-packages/probabilistica
+copying /home/unietaravena/Documents/aprendendo_ros2_2_2026/aprendendo_ros2_2_2026/build/probabilistica/build/lib/probabilistica/KalmanFilter_base.py -> /home/unietaravena/Documents/aprendendo_ros2_2_2026/aprendendo_ros2_2_2026/install/probabilistica/lib/python3.10/site-packages/probabilistica
+copying /home/unietaravena/Documents/aprendendo_ros2_2_2026/aprendendo_ros2_2_2026/build/probabilistica/build/lib/probabilistica/Mapping.py -> /home/unietaravena/Documents/aprendendo_ros2_2_2026/aprendendo_ros2_2_2026/install/probabilistica/lib/python3.10/site-packages/probabilistica
+copying /home/unietaravena/Documents/aprendendo_ros2_2_2026/aprendendo_ros2_2_2026/build/probabilistica/build/lib/probabilistica/__init__.py -> /home/unietaravena/Documents/aprendendo_ros2_2_2026/aprendendo_ros2_2_2026/install/probabilistica/lib/python3.10/site-packages/probabilistica
+byte-compiling /home/unietaravena/Documents/aprendendo_ros2_2_2026/aprendendo_ros2_2_2026/install/probabilistica/lib/python3.10/site-packages/probabilistica/KalmanFilter_base.py to KalmanFilter_base.cpython-310.pyc
+byte-compiling /home/unietaravena/Documents/aprendendo_ros2_2_2026/aprendendo_ros2_2_2026/install/probabilistica/lib/python3.10/site-packages/probabilistica/Mapping.py to Mapping.cpython-310.pyc
+byte-compiling /home/unietaravena/Documents/aprendendo_ros2_2_2026/aprendendo_ros2_2_2026/install/probabilistica/lib/python3.10/site-packages/probabilistica/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/unietaravena/Documents/aprendendo_ros2_2_2026/aprendendo_ros2_2_2026/install/probabilistica/share/ament_index
+creating /home/unietaravena/Documents/aprendendo_ros2_2_2026/aprendendo_ros2_2_2026/install/probabilistica/share/ament_index/resource_index
+creating /home/unietaravena/Documents/aprendendo_ros2_2_2026/aprendendo_ros2_2_2026/install/probabilistica/share/ament_index/resource_index/packages
+copying resource/probabilistica -> /home/unietaravena/Documents/aprendendo_ros2_2_2026/aprendendo_ros2_2_2026/install/probabilistica/share/ament_index/resource_index/packages
+copying package.xml -> /home/unietaravena/Documents/aprendendo_ros2_2_2026/aprendendo_ros2_2_2026/install/probabilistica/share/probabilistica
+running install_egg_info
+Copying ../../../build/probabilistica/probabilistica.egg-info to /home/unietaravena/Documents/aprendendo_ros2_2_2026/aprendendo_ros2_2_2026/install/probabilistica/lib/python3.10/site-packages/probabilistica-0.0.0-py3.10.egg-info
+running install_scripts
+Installing kalman_filter script to /home/unietaravena/Documents/aprendendo_ros2_2_2026/aprendendo_ros2_2_2026/install/probabilistica/lib/probabilistica
+Installing mapping script to /home/unietaravena/Documents/aprendendo_ros2_2_2026/aprendendo_ros2_2_2026/install/probabilistica/lib/probabilistica
+writing list of installed files to '/home/unietaravena/Documents/aprendendo_ros2_2_2026/aprendendo_ros2_2_2026/build/probabilistica/install.log'

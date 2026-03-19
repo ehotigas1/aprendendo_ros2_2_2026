@@ -1,0 +1,4 @@
+[console_scripts]
+kalman_filter = probabilistica.KalmanFilter_base:main
+mapping = probabilistica.Mapping:main
+
